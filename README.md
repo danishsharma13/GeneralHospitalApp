@@ -1,5 +1,5 @@
 # GeneralHospitalApp 
-###(Seneca College Project: OOP244)
+### (Seneca College Project: OOP244)
 
 ## The Pre-Triage Application
 The application starts by displaying a simple menu with three options:
